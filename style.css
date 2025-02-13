@@ -77,4 +77,7 @@ p {
 .header {
     background: radial-gradient(#fff, var(--radial-background-color));
 }
+.header .row {
+    margin-top: 70px;
+}
 /* Header/Banner Section End */
