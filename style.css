@@ -142,6 +142,7 @@ h4 {
 .col-4 p {
     font-size: 14px;
 }
+/* hey remember to have the parent class (.rating) as well, separated by a comma */
 .rating .fa-star, .rating .fa-star-half-stroke {
     color: var(--accent-color)
 }
