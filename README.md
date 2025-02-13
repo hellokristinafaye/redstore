@@ -8,6 +8,9 @@ Technologies Used:
 
 - HTML
 - CSS
+- Toptal HTML Symbol Code
+  - https://www.toptal.com/designers/htmlarrows/symbols/
+- 
 
 Features:
 
