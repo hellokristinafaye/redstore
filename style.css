@@ -3,6 +3,7 @@
     padding: 0; 
     box-sizing: border-box;
     --accent-color: #ff523b;
+    --small-text-color: #555;
 }
 /* Navigation Section Start */
 .navbar {
@@ -15,7 +16,7 @@ nav {
     text-align: right;
 }
 nav ul {
-    display: inlin-block;
+    display: inline-block;
     list-style: none;
 }
 nav ul li {
@@ -24,10 +25,10 @@ nav ul li {
 }
 a {
     text-decoration: none;
-    color: #555;
+    color: var(--small-text-color);
 }
 p {
-    color: #555;
+    color: var(--small-text-color);
 }
 /* Navigation Section End */
 
