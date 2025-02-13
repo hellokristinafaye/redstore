@@ -106,3 +106,15 @@ p {
     padding-right: 25px;
 }
 /* Featured Categories Section End */
+
+/* Featured Products Section Start */
+.col-4 {
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+.col-4 img {
+    width: 100%;
+}
+/* Featured Products Section End */
