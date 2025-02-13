@@ -4,6 +4,7 @@
     box-sizing: border-box;
     --accent-color: #ff523b;
     --small-text-color: #555;
+    --radial-background-color: #ffd6d6;
 }
 /* Navigation Section Start */
 .navbar {
@@ -42,7 +43,7 @@ p {
 }
 /* Container End? */
 
-/* Header Section Start */
+/* Header/Banner Section Start */
 .row {
     display: flex;
     align-items: center;
@@ -70,4 +71,7 @@ p {
     margin: 30px 0;
     border-radius: 30px;
 }
-/* Header Section End */
+.header {
+    background: radial-gradient(#fff, var(--radial-background-color));
+}
+/* Header/Banner Section End */
