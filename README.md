@@ -8,6 +8,8 @@ Technologies Used:
 
 - HTML
 - CSS
+  - hover effect
+  - color variables
 - Toptal HTML Symbol Code
   - https://www.toptal.com/designers/htmlarrows/symbols/
 - 
