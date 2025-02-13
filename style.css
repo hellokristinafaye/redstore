@@ -5,6 +5,7 @@
     --accent-color: #ff523b;
     --small-text-color: #555;
     --radial-background-color: #ffd6d6;
+    --dark-background-color: #563434;
 }
 body {
     font-family: "Poppins", sans-serif;
@@ -73,6 +74,10 @@ p {
     padding: 8px 30px;
     margin: 30px 0;
     border-radius: 30px;
+    transition: background .5s;
+}
+.btn:hover {
+    background: var(--dark-background-color);
 }
 .header {
     background: radial-gradient(#fff, var(--radial-background-color));
@@ -80,4 +85,5 @@ p {
 .header .row {
     margin-top: 70px;
 }
+
 /* Header/Banner Section End */
