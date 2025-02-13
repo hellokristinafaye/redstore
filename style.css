@@ -6,6 +6,9 @@
     --small-text-color: #555;
     --radial-background-color: #ffd6d6;
 }
+body {
+    font-family: "Poppins", sans-serif;
+}
 /* Navigation Section Start */
 .navbar {
     display: flex;
