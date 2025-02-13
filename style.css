@@ -135,4 +135,14 @@ p {
     left: 50%;
     transform: translateX(-50%);
 }
+h4 {
+    color: var(--small-text-color);
+    font-weight: normal;
+}
+.col-4 p {
+    font-size: 14px;
+}
+.rating .fa-star, .rating .fa-star-half-stroke {
+    color: var(--accent-color)
+}
 /* Featured Products Section End */
