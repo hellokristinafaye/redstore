@@ -12,7 +12,8 @@ Technologies Used:
   - color variables
 - Toptal HTML Symbol Code
   - https://www.toptal.com/designers/htmlarrows/symbols/
-- 
+- Google Fonts
+- Font Awesome (icons)
 
 Features:
 
