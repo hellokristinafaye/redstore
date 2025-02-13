@@ -113,6 +113,7 @@ p {
     padding: 10px;
     min-width: 200px;
     margin-bottom: 50px;
+    transition: transform .5s;
 }
 .col-4 img {
     width: 100%;
@@ -145,5 +146,8 @@ h4 {
 /* hey remember to have the parent class (.rating) as well, separated by a comma */
 .rating .fa-star, .rating .fa-star-half-stroke {
     color: var(--accent-color)
+}
+.col-4:hover {
+    transform: translateY(-5px);
 }
 /* Featured Products Section End */
