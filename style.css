@@ -151,3 +151,12 @@ h4 {
     transform: translateY(-5px);
 }
 /* Featured Products Section End */
+
+/* Offer Section Start */
+.offer {
+    background: radial-gradient(#fff, #fff, var(--radial-background-color));
+    margin-top: 80px;
+    padding: 30px 0;
+
+}
+/* Offer Section End */
