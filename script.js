@@ -1,11 +1,11 @@
 var MenuItems = document.getElementById("MenuItems");
 
-MenuItems.style.display = 'none';
+MenuItems.style.maxHeight = '0px';
 
 function menutoggle() {
-    if (MenuItems.style.display == 'none') {
-        MenuItems.style.display = 'block';
+    if (MenuItems.style.maxHeight == '0px') {
+        MenuItems.style.maxHeight = '200px';
     } else {
-        MenuItems.style.display = 'none';
+        MenuItems.style.maxHeight = '0px';
     }
 }
