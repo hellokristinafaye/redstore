@@ -81,6 +81,8 @@ p {
 }
 .header {
     background: radial-gradient(#fff, var(--radial-background-color));
+    /* custom line below to optimize the landing page */
+    height: 100vh;
 }
 .header .row {
     margin-top: 70px;
